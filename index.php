@@ -15,7 +15,7 @@
             </div>
                     <li><a href="../Tim Kami/index.php">Our Team</a><li>
                     <li><a href="../List Logo/List.php">List Barang</a><li></li>
-					<li><a href="../admin/index.php">Admin</a><li>	
+					<li><a href="../Login_v8/index.php">login</a><li>	
                 </ul>
                 
         </nav>

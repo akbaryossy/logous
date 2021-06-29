@@ -17,7 +17,7 @@
     </div>
             <li><a href="../index.php">Home</a><li>
             <li><a href="../List Logo/List.php">List Logo</a><li></li>
-            <li><a href="../admin/index.php">admin</a><li>
+            <li><a href="../adminbaru/admin.php">admin</a><li>
         </ul>
         
 </nav>
